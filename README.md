@@ -1,5 +1,7 @@
 # Loan Qualifier App
- ### This app is used to: load bank data from a csv file and then retrieve the applicant info from the csv data. Qualifying loans are pulled and a variety of ratios are calculated to determine the parameters fir loan qualification. Using a CLI users input their information in order tp save pr not save the qualifying loans as a csv file.
+ ### This app is used to: load bank data from a csv file and then retrieve the applicant info from the csv data. 
+ ### Qualifying loans are pulled and a variety of ratios are calculated to determine the parameters for loan qualification. 
+ ### Using a CLI users input their information in order to save or not save the qualifying loans as a csv file.
 ---
 
 # Technologies
@@ -17,13 +19,13 @@
 # Usage
 
 ### This function prompts the user for a filepath name loads the bank data from the csv file
-### ![]/Users/christinepham/Desktop/Screen Shot 2022-10-09 at 8.55.50 PM.png
+### ![](/Users/christinepham/Desktop/Screen Shot 2022-10-09 at 8.55.50 PM.png)
 
 ### Here the user will be prompted to input responses in regards to saving the qualifying loans to a csv file.
 ### ![](/Users/christinepham/Desktop/Screen Shot 2022-10-09 at 8.54.06 PM.png)
 
 #### This function prompt the user to answer a variety of questions in order to get this financial info for loan qualification purposes.
-### ![]/Users/christinepham/Desktop/Screen Shot 2022-10-09 at 8.57.24 PM.png
+### ![](/Users/christinepham/Desktop/Screen Shot 2022-10-09 at 8.57.24 PM.png)
 ---
 
 # Contributors
