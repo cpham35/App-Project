@@ -1,0 +1,262 @@
+   50  ls –al ~/.ssh
+   51  ls -al ~/.ssh
+   52  ssh-keygen -t rsa -b 4096 -C "christinpham218@gmail.com"
+   53  eval"$(ssh-agent-s)"
+   54  eval"$(ssh-agent -s)"
+   55  ssh-add ~/.ssh/id_rsa
+   56  pbcopy < ~/.ssh/id_rsa.pub
+   57  julia
+   58  /Volumes/Julia-1.8.1/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+   59  /Volumes/Julia-1.8.1/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+   60  c\julia\bin>julia
+   61  C:\>cd julia
+   62  julia
+   63  julia
+   64  /Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+   65  rm -f /usr/local/bin/juliarosetta\n\nln -s /Applications/Julia-1.7-Rosetta.app/Contents/Resources/julia/bin/julia /usr/local/bin/julia
+   66  rm -f /usr/local/bin/juliarosetta\n\nln -s /Applications/Julia-1.7-Rosetta.app/Contents/Resources/julia/bin/julia /usr/local/bin/julia
+   67  rm - /usr/local/bin/julia
+   68  /Users/ezambran/Documents/OJES>
+   69  julia
+   70  /Users/christinepham/Downloads/OJEDS-master 
+   71  /Users/christinepham/Desktop/untitled\ folder 
+   72  /Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+   73  conda deactivate
+   74  ls
+   75  code .
+   76  cd
+   77  ls
+   78  /Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/02_Stu_Percent_Increase/README.md
+   79  /usr/bin/python3 Untitled-1
+   80  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   81  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   82  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   83  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   84  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   85  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   86  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   87  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   88  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   89  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   90  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/03_Ins_Lists/Solved/lists.py"
+   91  pwd
+   92  pwd|pbcopy
+   93  rm -f /usr/local/bin/julia\n\nln -s /Applications/Julia-1.7.app/Contents/Resources/julia/bin/julia /usr/local/bin/julia
+   94  ln -fs "/Applications/Julia-1.5.app/Contents/Resources/julia/bin/julia" /usr/local/bin/julia
+   95  /Users/christinepham/Downloads/julia-1.8.1-macaarch64.dmg
+   96  /Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia ; exit;
+   97  /Applications/Julia-1.8.app
+   98  PATH="/Applications/Julia-1.8.app/julia/bin:${PATH}"
+   99  export PATH
+  100  julia
+  101  $ ls/Applications/Julia-1.8.app/julia/bin/julia
+  102  ls //Applications/Julia-1.8.app/julia/bin/julia
+  103  PATH="/Applications/Julia-1.8.app" 
+  104  export PATH
+  105  julia
+  106  ln -fs "/Applications/Julia-1.8.app" /usr/local/bin/julia
+  107  ln
+  108  export JULIA=/snap/bin/julia
+  109  brew cask install julia
+  110  instantiate
+  111  julia
+  112  julia
+  113  /Applications/Julia-1.8.app/Contents
+  114  rm -f /usr/local/bin/julia
+  115  ln -s /Applications/Julia-1.8.app/Contents /usr/local/bin/julia
+  116  sudo mkdir -p /usr/local/bin\nsudo rm -f /usr/local/bin/julia\nsudo ln -s /Applications/Julia-1.8.app/Contents/Resources/julia/bin/julia /usr/local/bin/julia 
+  117  julia
+  118  cd "/Users/christinepham/Downloads/OJEDS-master"
+  119  julia
+  120  cd "/Users/christinepham/Downloads/OJEDS-master"
+  121  julia
+  122  julia
+  123  cd "/Users/christinepham/Downloads/OJEDS-master"
+  124  hulia
+  125  julia
+  126  ls
+  127  julia
+  128  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  129  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  130  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  131  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  132  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  133  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  134  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  135  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  136  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  137  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  138  /usr/bin/python3 "/Users/christinepham/Desktop/fintech bootcamp/tuesday/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py"
+  139  pwd
+  140  ls
+  141  cd
+  142  mk
+  143  mkdir Fintech
+  144  ls
+  145  cd Fintech
+  146  touch code.py
+  147  ls
+  148  mkdir Activity_1
+  149  ls
+  150  code.py into mv Activity_1
+  151  mv code.py Activity_1/
+  152  ls
+  153  rm -rf Activity_1/
+  154  ls
+  155  touch word.docx
+  156  mv word.docx new.docx
+  157  ls
+  158  /usr/bin/python3 /Users/christinepham/Downloads/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  159  /usr/bin/python3 /Users/christinepham/Downloads/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  160  /usr/bin/python3 /Users/christinepham/Downloads/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  161  /usr/bin/python3 "/Users/christinepham/Downloads/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  162  /usr/bin/python3 "/Users/christinepham/Downloads/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  163  /usr/bin/python3 "/Users/christinepham/Downloads/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  164  /usr/bin/python3 /Users/christinepham/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  165  /usr/bin/python3 /Users/christinepham/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  166  /usr/bin/python3 /Users/christinepham/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_world.py
+  167  /usr/bin/python3
+  168  cls
+  169  clear
+  170  loan_cost = loan.get("loan_price")
+  171  conda env list
+  172  julia
+  173  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  174  /usr/bin/python3
+  175  clear
+  176  python loan_analyzer.py
+  177  python
+  178  python loan_analyzer.py
+  179  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  180  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  181  /usr/bin/python3
+  182  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  183  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  184  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  185  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  186  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  187  python loan_analyzer.py
+  188  python loan_analyzer.py
+  189  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/loan_analyzer.py
+  190  python loan_analyzer.py
+  191  python --version
+  192  conda activate dev
+  193  python --version
+  194  conda install python=3.7.13
+  195  python --version
+  196  conda update -n base -c defaults conda
+  197  python --version
+  198  conda deactivate
+  199  conda update -n base -c defaults conda
+  200  python --version
+  201  python loan_analyzer.py
+  202  git init
+  203  git clone git@github.com:cpham35/Loan_Analyzer.git
+  204  mv loan_analyzer.py Loan_Analyzer
+  205  mv inexpensive_loans.csv Loan_Analyzer
+  206  cd Loan_Analyzer
+  207  ls
+  208  git status
+  209  git add .
+  210  git status
+  211  git commit
+  212  git commit -m "pushing challenge1"
+  213  git push
+  214  ls
+  215  cd
+  216  cd/
+  217  cd Desktop
+  218  ls
+  219  cd Challenges
+  220  ls
+  221  code .
+  222  cod .
+  223  code . 
+  224  killall code .
+  225  code .
+  226  n = 0
+  227  c = 0
+  228  def NPV(c,r):
+  229      NFVend += c(1+r)^n
+  230      for n in c\n        n += 1
+  231  n = 0
+  232  c = 0
+  233  ls
+  234  cd Desktop
+  235  ls
+  236  julia
+  237  /usr/bin/python3 Untitled-2
+  238  /usr/bin/python3 Untitled-2
+  239  /usr/bin/python3 Untitled-2
+  240  /usr/bin/python3 Untitled-2
+  241  /usr/bin/python3
+  242  conda activate base
+  243  /Users/christinepham/opt/anaconda3/bin/python
+  244  rm -rf ~/.config/Code/Cache
+  245  cat~/.ssh/id_rsa.pub
+  246  cat ~/.ssh/id_rsa.pub
+  247  git clone git@ucb.bootcampcontent.com:UCB-Coding-Bootcamp/UCB-VIRT-FIN-PT-09-2022-U-B.git
+  248  ls
+  249  cd usb
+  250  cd ucd
+  251  conda activate dev
+  252  code .
+  253  /usr/bin/python3
+  254  /usr/bin/python3 /Users/christinepham/Downloads/01_Loan_Qualifier_Financial_Calculations-3/Unsolved/app.py
+  255  /usr/bin/python3
+  256  conda activate dev
+  257  jupyter
+  258  jupyter notebook
+  259  ls
+  260  cd 02-Financial-Applications-Python
+  261  ls
+  262  /usr/bin/python3
+  263  /usr/bin/python3
+  264  /usr/bin/python3
+  265  conda activate dev
+  266  /usr/bin/python3 /Users/christinepham/Downloads/01_Loan_Qualifier_Financial_Calculations-3/Unsolved/app.py
+  267  conda activate dev
+  268  /usr/bin/python3
+  269  ls
+  270  cd app.py
+  271  code .
+  272  /usr/bin/python3 /Users/christinepham/Downloads/01_Loan_Qualifier_Financial_Calculations-3/Unsolved/app.py
+  273  /usr/bin/python3
+  274  /usr/bin/python3 /Users/christinepham/Downloads/02_Loan_Qualifier_Filtering_Data-2/Unsolved/app.py
+  275  conda activate dev
+  276  /usr/bin/python3 /Users/christinepham/Downloads/02_Loan_Qualifier_Filtering_Data-2/Unsolved/app.py
+  277  /usr/bin/python3
+  278  /usr/bin/python3
+  279  ls
+  280  python app.py
+  281  python --version
+  282  conda activate dev
+  283  python --version
+  284  /usr/bin/python3 /Users/christinepham/Desktop/Challenges/Starter_Code-2/loan_qualifier_app/app.py
+  285  conda activate dev
+  286  conda activate dev
+  287  conda activate dev
+  288  python --version
+  289  python --version
+  290  conda install python=3.9.12
+  291  python --version
+  292  conda activate dev
+  293  python --version
+  294  conda deactivate
+  295  python --version
+  296  python --version
+  297  clear
+  298  python --version
+  299  python --version
+  300  conda activate dev
+  301  python --version
+  302  conda activate
+  303  python --version
+  304  conda activate dev
+  305   /usr/bin/env /Users/christinepham/opt/anaconda3/envs/dev/bin/python /Users/christinepham/.vscode/extensions/ms-python.python-2022.16.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 50325 -- /Users/christinepham/Desktop/Challenges/Starter_Code-2/loan_qualifier_app/app.py 
+  306  python app.py
+  307  python app.py
+  308  python --version
+  309  conda activate dev
+  310  python --version
+  311  python app.py
