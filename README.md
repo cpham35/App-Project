@@ -10,7 +10,7 @@
 
 # Installation Guide
 
-### Use this format to install the necessary libariries/modules
+### Use this format to install the necessary libraries/modules
 ### ![](/Users/christinepham/Desktop/Screen Shot 2022-10-09 at 8.51.32 PM.png)
 ---
 
